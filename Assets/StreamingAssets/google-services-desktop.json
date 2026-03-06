@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683764900884",
+    "firebase_url": "https://inventory-tracking-49a4d-default-rtdb.firebaseio.com",
+    "project_id": "inventory-tracking-49a4d",
+    "storage_bucket": "inventory-tracking-49a4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683764900884:android:5aa9d995bb88565cd6f301",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARStockManagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683764900884-1khu6n7f3v91bc847tefm7fss1tmt1h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MnKsUIdaFERelXPEExJp6JPUPPUyAOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683764900884-1khu6n7f3v91bc847tefm7fss1tmt1h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
